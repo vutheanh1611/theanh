@@ -211,3 +211,102 @@ section{
 img{
     border-radius: 50px;
 }
+/*education*/
+.education h1{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    margin: 50px 0;
+}
+.education p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0 150px;
+}
+.education2 img{
+    width: 1020px;
+    height: 573px;
+    margin-left:17%;
+}
+.education3 h2{
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:35px;
+    margin: 20px 0px;
+}
+a h2:hover{
+    color: royalblue;
+}
+.education3 p{
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+/*Educational Programs*/
+.educational-programs1 p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0 150px;
+}
+.educational-programs2 img{
+    width: 1020px;
+    height: 573px;
+    margin-left:17%;
+}
+.educational-programs1 h1{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    margin: 50px 0;
+}
+/*Outreach Programs*/
+.outreach-programs p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.outreach-programs1 img{
+    width: 1020px;
+    height: 573px;
+    margin-left:17%;
+    padding-bottom: 50px;
+}
+.outreach-programs h1{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    margin: 50px 0;
+}
+.outreach-programs2 h2{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+    margin: 15px 0;
+}
+
+/*Speciality Days (Awareness Days)*/
+.specciality h1{
+    font-weight: 700;
+    font-size: 3em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+.specciality1 img{
+    height:600px ;
+}
+.specciality3 h2{
+    font-size: 2em;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.specciality3 p{
+    font-size: 1.5em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:500 ;
+}

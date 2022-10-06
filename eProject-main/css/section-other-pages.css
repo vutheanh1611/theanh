@@ -152,9 +152,7 @@ section{
 .page-content{
     background-color: white;
     width: 100%;
-    padding-left: 30px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 25px;
 }
 .content{
     line-height: 1.25;
@@ -195,22 +193,51 @@ section{
 .radius-img{
     border-radius: 100%;
 }
-/*junior and thescoop*/
-.col-6 h1{
-    font-size: 2em;
-    font-weight: 700;
+
+/*----event----*/
+.col h2{
     font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
 }
-.col-6 p{
-    font-size: 1.5em;
-    font-weight: 400;
+.col p{
+    font-size: 20px;
+    font-weight: 500;
     font-family: 'Josefin Sans', sans-serif;
     text-align: justify;
-    margin: 20px 0;
 }
-img{
+.img1 img{
     border-radius: 50px;
 }
+.ev-row{
+    border-bottom: 2px dashed black;
+    padding-bottom: 20px;
+}
+.img1{
+    text-align: center;
+}
+
+/*---our partner---*/
+
+.our3 p {
+    padding: 30px;
+    background: #f2f4f4;
+    text-align: center;
+    width: 100%;
+    font-size: 1.8em;
+
+    font-weight:700;
+}
+.ul-content{
+    font-size: 20px;
+}
+
+/*---penguin camp---*/
+.video-pt video{
+    width: 100%;
+}
+
 /*education*/
 .education h1{
     text-align: center;
@@ -224,16 +251,14 @@ img{
     font-family: 'Josefin Sans', sans-serif;
     margin: 0 150px;
 }
-.education2 img{
-    width: 1020px;
-    height: 573px;
-    margin-left:17%;
-}
 .education3 h2{
     font-weight: 600;
     font-family: 'Josefin Sans', sans-serif;
     font-size:35px;
     margin: 20px 0px;
+}
+.education3{
+    text-align: center;
 }
 a h2:hover{
     color: royalblue;
@@ -310,8 +335,29 @@ a h2:hover{
     font-family: 'Josefin Sans', sans-serif;
     font-weight:500 ;
 }
-/*about*/
-.contact-us1 img{
-    margin-top: 80px;
-
+/*30years*/
+.years h1{
+    font-weight: 700;
+    font-size: 3em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+.years1 h2{
+    font-weight: 600;
+    font-size: 2.5em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.years1 h3{
+    font-weight: 500;
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+.years2 p{
+    font-weight: 600;
+    font-size: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
 }
